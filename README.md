@@ -1,6 +1,6 @@
 # NAMEdataset
 (ACM MM 2025) NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild   
-Paper: [](https://dl.acm.org/doi/abs/10.1145/3746027.3755095)   
+[Paper Link](https://dl.acm.org/doi/abs/10.1145/3746027.3755095)   
 The dataset is available soon.   
 @inproceedings{liu2025name,
   title={NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild},
