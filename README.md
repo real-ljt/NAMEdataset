@@ -7,5 +7,4 @@ The dataset is available soon.
   author={Liu, Jiateng and Shi, Hengcan and Liang, Haiwen and Xu, Xiaolin and Zong, Yuan and Wang, Yaonan and Zheng, Wenming},  
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},  
   pages={5617--5626},  
-  year={2025}  
-}
+  year={2025}}
