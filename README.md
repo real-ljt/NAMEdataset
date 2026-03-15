@@ -8,7 +8,7 @@
 
 
 ## 📥Accessment Request
-Please fill in the [**End User License Agreement (EULA)**](EULA.pdf) for **non-commercial academic research** purposes only.
+Please fill in the [**End User License Agreement (EULA)**](EULA.pdf) and send it to **jiateng_liu@seu.edu.cn** for **non-commercial academic research** purposes only.
 
 
 ## Reference
