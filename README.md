@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-EULA-blue)
 
 # 📊NAME Overview
-**NaME** is a **large-scale in-the-wild micro-expression dataset** comprising 506 spontaneous clips from 106 multi-cultural participants at 1920×1080 resolution, provided in both face-cropped (background-excluded) and original (background-included) forms. Each clip is annotated by three FACS-certified experts with 24 Action Units, precise temporal markers (onset, apex, offset), and one of six emotion labels: **Happiness 15, Disgust 69, Anger 26, Surprise 162, Sadness 46, and Others 188**. 
+**NaME** is a **large-scale in-the-wild micro-expression dataset** comprising 506 spontaneous ME samples from 106 multi-cultural participants at 1920×1080 resolution, provided in both face-cropped (background-excluded) and original (background-included) forms. Each clip is annotated by three FACS-certified experts with 24 Action Units, precise temporal markers (onset, apex, offset), and one of six emotion labels: **Happiness 15, Disgust 69, Anger 26, Surprise 162, Sadness 46, and Others 188**. 
 
 ![image](https://github.com/real-ljt/NAMEdataset/blob/main/samples2_c.png)
 
