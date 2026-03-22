@@ -8,7 +8,7 @@
 
 
 ## 📥Accessment Request
-Please read carefully and fill in the [**End User License Agreement (EULA)**](EULA4NaME.pdf) and send it to **jiateng_liu@seu.edu.cn**.
+Please read and fill in the [**End User License Agreement (EULA)**](EULA4NaME.pdf) carefully, then send it to **jiateng_liu@seu.edu.cn**.
 
 
 ## Reference
